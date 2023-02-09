@@ -1,0 +1,40 @@
+
+/* .modal-content{
+  display: flex;
+  flex-direction: column;
+} */
+.loginFormContainer{
+  /* display: flex; */
+  /* justify-content: space-between; */
+  /* flex-direction: column; */
+  border: 1px solid;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.loginButton{
+  padding-left: 10px;
+  background-color:  white;
+  border: 1px solid lightgrey;
+  border-radius: 3px;
+}
+.loginButton:hover {
+  background-color: rgb(80,117,148);
+  box-shadow: 2px 2px 30px lightgrey;
+}
+
+.passwordInput{
+  padding-left: 10px;
+}
+
+.login {
+  margin-left: 3%;
+  background-color:  white;
+  border-radius: 3px;
+  border: 1px solid lightgrey;
+}
+
+.login:hover {
+  background-color: rgb(80,117,148);
+  box-shadow: 2px 2px 30px lightgrey;
+}
